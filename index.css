@@ -1,0 +1,24 @@
+body{
+    background-color: slategray;
+}
+h1{
+    color: black;
+    margin: 50px;
+    padding: 10px;
+    background-color: lightblue;
+    display: inline-block;
+    font-size: 80px;
+    height: 280;
+    width: 280;
+    text-shadow: 0px 10px 8px rgb(131, 50, 16), 0px -10px 8px rgb(246, 246, 132);
+    font-family: sans-serif, 'Courier New', Courier, monospace;
+}
+p{
+    background-color: rgb(62, 68, 74);
+    color: black;
+    /* margin: 8px; */
+    padding: 40px;
+    display: inline-block;
+    font-size: 20px;
+    font-family: sans-serif;
+}
