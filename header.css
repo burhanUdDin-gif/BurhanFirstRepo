@@ -1,0 +1,30 @@
+header{
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightblue;
+
+}
+header ul{
+    /* background-color: slategray; */
+    display: inline-block;
+    text-align: center;
+    /* justify-content: center; */
+}
+ul li {
+    list-style: none;
+    padding: 0px;
+    margin: 20px;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: brown;
+    border-radius: 10px;
+}
