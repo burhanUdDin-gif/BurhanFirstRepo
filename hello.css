@@ -1,0 +1,12 @@
+body{
+    background-color: slategray;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    background-color: rgb(55, 54, 54);
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+
+}
